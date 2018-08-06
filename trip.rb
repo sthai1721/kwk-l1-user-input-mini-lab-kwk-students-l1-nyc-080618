@@ -13,7 +13,7 @@ puts "Where would you like to eat?"
 eat = gets.chomp 
 
 puts "How many nights would you like to stay?"
-nights = gets.chomp.to_i
+nights = gets.chomp
 
 
 # Lastly, puts it all back by interpolating these values in a string.
