@@ -18,4 +18,4 @@ nights = gets.chomp.to_i
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts "#{stay} #{eats} #{nights}"
+puts "#{stay} #{eat} #{nights}"
